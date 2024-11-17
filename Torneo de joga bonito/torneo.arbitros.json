@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "673a27b2b4234ec62b0d819d"
+  },
+  "nombre": "Wilmar Roldán",
+  "años_experiencia": 15,
+  "partidos_arbitrados": 300
+},
+{
+  "_id": {
+    "$oid": "673a27b2b4234ec62b0d819e"
+  },
+  "nombre": "Carlos Ortega",
+  "años_experiencia": 12,
+  "partidos_arbitrados": 250
+},
+{
+  "_id": {
+    "$oid": "673a27b2b4234ec62b0d819f"
+  },
+  "nombre": "Jorge Sierra",
+  "años_experiencia": 8,
+  "partidos_arbitrados": 180
+}]

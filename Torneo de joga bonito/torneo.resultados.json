@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "673a27d5b4234ec62b0d81a4"
+  },
+  "partido": "Millonarios vs Atlético Nacional",
+  "resultado": "2-0",
+  "goleadores": [
+    {
+      "jugador": "Fernando Uribe",
+      "goles": 1
+    },
+    {
+      "jugador": "Daniel Ruiz",
+      "goles": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a27d5b4234ec62b0d81a5"
+  },
+  "partido": "Santa Fe vs América de Cali",
+  "resultado": "1-1",
+  "goleadores": [
+    {
+      "jugador": "Johan Arango",
+      "goles": 1
+    },
+    {
+      "jugador": "Duván Vergara",
+      "goles": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a27d5b4234ec62b0d81a6"
+  },
+  "partido": "Atlético Nacional vs Santa Fe",
+  "resultado": "1-2",
+  "goleadores": [
+    {
+      "jugador": "Dorlan Pabón",
+      "goles": 1
+    },
+    {
+      "jugador": "Andrés Pérez",
+      "goles": 1
+    },
+    {
+      "jugador": "Leandro Castellanos",
+      "goles": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a27d5b4234ec62b0d81a7"
+  },
+  "partido": "América de Cali vs Millonarios",
+  "resultado": "0-3",
+  "goleadores": [
+    {
+      "jugador": "Fernando Uribe",
+      "goles": 2
+    },
+    {
+      "jugador": "Andrés Llinás",
+      "goles": 1
+    }
+  ]
+}]

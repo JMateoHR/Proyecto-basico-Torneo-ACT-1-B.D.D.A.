@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "673a2740b4234ec62b0d8199"
+  },
+  "nombre": "Millonarios",
+  "entrenador": {
+    "nombre": "Alberto Gamero",
+    "experiencia": "10 años"
+  },
+  "jugadores": [
+    {
+      "nombre": "Andrés Llinás",
+      "numero": 26,
+      "rol": "defensa"
+    },
+    {
+      "nombre": "Daniel Ruiz",
+      "numero": 10,
+      "rol": "mediocampista"
+    },
+    {
+      "nombre": "Fernando Uribe",
+      "numero": 13,
+      "rol": "delantero"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a2740b4234ec62b0d819a"
+  },
+  "nombre": "Atlético Nacional",
+  "entrenador": {
+    "nombre": "Paulo Autuori",
+    "experiencia": "15 años"
+  },
+  "jugadores": [
+    {
+      "nombre": "Dorlan Pabón",
+      "numero": 8,
+      "rol": "delantero"
+    },
+    {
+      "nombre": "Kevin Mier",
+      "numero": 1,
+      "rol": "portero"
+    },
+    {
+      "nombre": "Andrés Andrade",
+      "numero": 7,
+      "rol": "mediocampista"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a2740b4234ec62b0d819b"
+  },
+  "nombre": "Santa Fe",
+  "entrenador": {
+    "nombre": "Harold Rivera",
+    "experiencia": "10 años"
+  },
+  "jugadores": [
+    {
+      "nombre": "Johan Arango",
+      "numero": 17,
+      "rol": "delantero"
+    },
+    {
+      "nombre": "Andrés Pérez",
+      "numero": 5,
+      "rol": "mediocampista"
+    },
+    {
+      "nombre": "Leandro Castellanos",
+      "numero": 22,
+      "rol": "portero"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a2740b4234ec62b0d819c"
+  },
+  "nombre": "América de Cali",
+  "entrenador": {
+    "nombre": "Alexandre Guimarães",
+    "experiencia": "20 años"
+  },
+  "jugadores": [
+    {
+      "nombre": "Duván Vergara",
+      "numero": 18,
+      "rol": "delantero"
+    },
+    {
+      "nombre": "Carlos Sierra",
+      "numero": 21,
+      "rol": "mediocampista"
+    },
+    {
+      "nombre": "Joel Graterol",
+      "numero": 12,
+      "rol": "portero"
+    }
+  ]
+}]

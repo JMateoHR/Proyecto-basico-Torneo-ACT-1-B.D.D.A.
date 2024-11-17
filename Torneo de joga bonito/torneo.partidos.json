@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "673a27ceb4234ec62b0d81a0"
+  },
+  "equipo_local": "Millonarios",
+  "equipo_visitante": "Atlético Nacional",
+  "fecha": "2024-11-20",
+  "arbitro": "Wilmar Roldán"
+},
+{
+  "_id": {
+    "$oid": "673a27ceb4234ec62b0d81a1"
+  },
+  "equipo_local": "Santa Fe",
+  "equipo_visitante": "América de Cali",
+  "fecha": "2024-11-21",
+  "arbitro": "Carlos Ortega"
+},
+{
+  "_id": {
+    "$oid": "673a27ceb4234ec62b0d81a2"
+  },
+  "equipo_local": "Atlético Nacional",
+  "equipo_visitante": "Santa Fe",
+  "fecha": "2024-11-22",
+  "arbitro": "Jorge Sierra"
+},
+{
+  "_id": {
+    "$oid": "673a27ceb4234ec62b0d81a3"
+  },
+  "equipo_local": "América de Cali",
+  "equipo_visitante": "Millonarios",
+  "fecha": "2024-11-23",
+  "arbitro": "Wilmar Roldán"
+}]
